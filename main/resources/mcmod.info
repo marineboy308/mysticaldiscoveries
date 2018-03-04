@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mdcore",
+  "name": "Mystical Discoveries",
+  "description": "(Coming Soon)",
+  "version": "1.0-alpha",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["marineboy308"],
+  "credits": "(Coming Soon)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

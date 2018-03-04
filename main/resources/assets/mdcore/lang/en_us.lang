@@ -1,0 +1,19 @@
+<!--Biomes-->
+generator.grassy_mesa=Grassy Mesa
+
+<!--Item Groups-->
+itemGroup.mystical_discoveries=Mystical Discoveries
+itemGroup.mystical_discoveries_materials=Mystical Discoveries - Materials
+itemGroup.mystical_discoveries_machines=Mystical Discoveries - Machines
+
+<!--Items-->
+item.dust_evaporium.name=Evaporium Dust
+
+<!--Containers-->
+container.crafter_evaporating=Evaporation Crafter
+
+<!--Tiles/Tile Entities-->
+tile.stone_evaporium.name=Evaporium Stone
+
+tile.crafter_evaporating.name=Evaporation Crafter
+tile.crafter_evaporating_crafting.name=Evaporation Crafter

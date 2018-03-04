@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "crafting=false,facing=north": {"model": "mdcore:crafter_evaporating"},
+        "crafting=false,facing=east": {"model": "mdcore:crafter_evaporating","y": 90},
+        "crafting=false,facing=south": {"model": "mdcore:crafter_evaporating","y": 180},
+        "crafting=false,facing=west": {"model": "mdcore:crafter_evaporating","y": 270},
+        "crafting=true,facing=north": {"model": "mdcore:crafter_evaporating_crafting"},
+        "crafting=true,facing=east": {"model": "mdcore:crafter_evaporating_crafting","y": 90},
+        "crafting=true,facing=south": {"model": "mdcore:crafter_evaporating_crafting","y": 180},
+        "crafting=true,facing=west": {"model": "mdcore:crafter_evaporating_crafting","y": 270}
+    }
+}
